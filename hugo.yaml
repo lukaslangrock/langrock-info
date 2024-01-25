@@ -1,0 +1,36 @@
+baseURL: https://langrock.info/
+languageCode: en-us
+theme: PaperMod
+title: Lukas Langrock
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+params:
+  profileMode:
+    enabled: true
+    title: "Hey there!" 
+    subtitle: "This is my homepage, literally. It's just page with some links"
+    imageUrl: "/profilepic.avif"
+    imageTitle: "avater profile picture" 
+    imageWidth: 240
+    imageHeight: 240
+    buttons:
+      - name: Wiki
+        url: "https://wiki.libre.moe"
+      - name: Git
+        url: "https://git.libre.moe/lukas"
+      - name: Shutdown Timer
+        url: "https://www.microsoft.com/store/apps/9NTDG6C9BTTW?cid=langrock.info"
+  socialIcons:
+        - name: github
+          url: "https://github.com/lukaslangrock"
+        - name: discord
+          url: "https://discordapp.com/users/400325262597947403"
+        - name: matrix
+          url: "https://matrix.to/#/@lukas:komu.boo"
+        - name: steam
+          url: "https://steamcommunity.com/id/seele-02"
