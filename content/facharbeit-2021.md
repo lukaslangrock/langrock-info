@@ -11,5 +11,5 @@ Vergleich zwischen den verlustbehafteten Videokomprimierungsalgorithmen AVC, HEV
 
 *Anmerkung: Diese Facharbeit entstand in schulischem Rahmen und ist mit entsprechend geringem Aufwand und Treue zum wissenschaftlichen Arbeiten entstanden.*
 
-**Download:** [PDF](https://files.langrock.info/Documents/Facharbeit/Facharbeit.pdf) - [ODT](https://files.langrock.info/Documents/Facharbeit/Facharbeit.odt) - [Quellen](https://files.langrock.info/Documents/Facharbeit/Quellen/)
+**Download:** [PDF](https://files.langrock.info/docs/Facharbeit/Facharbeit.pdf) - [ODT](https://files.langrock.info/docs/Facharbeit/Facharbeit.odt) - [Quellen](https://files.langrock.info/docs/Facharbeit/Quellen/)
 
