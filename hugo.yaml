@@ -13,7 +13,7 @@ params:
   profileMode:
     enabled: true
     title: "Hey there!" 
-    subtitle: "This is my homepage, literally. It's just page with some links."
+    subtitle: "Welcome to my homepage. You can find my profiles and projects using the links below."
     imageUrl: "/profilepic.avif"
     imageTitle: "avater profile picture" 
     imageWidth: 240
