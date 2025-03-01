@@ -11,7 +11,7 @@ searchHidden: false
 Throughout this privacy policy, "personal information" or "personal data" refers to information that may identify you as an individual, such as your name, email address, IP address and other information about you. The mention of third-party sites and services refers to internet services that I do not or only partially have control over.
 
 > **ℹ️ NOTICE**  
-> If you are looking for the privacy policy for specific applications instead of this website, refer to "[Privacy Policy for Applications]({{< ref "/privacy-for-applications" >}})".
+> If you are looking for the privacy policy for specific applications instead of this website, refer to "[Privacy Policy for Applications]({{< ref "/privacy/applications" >}})".
 
 ## Privacy 🔒
 
