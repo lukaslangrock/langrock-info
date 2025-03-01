@@ -1,14 +1,17 @@
 ---
 title: "Privacy & Security"
-summary: "Privacy Policy for langrock.info and subdomains"
+summary: "Privacy policy for langrock.info and subdomains"
 url: "privacy"
 searchHidden: false
 ---
 
 *This policy is valid for all langrock.info websites and services unless stated otherwise.*  
-*Last Update: 01.03.2025*
+*Last Updated: 01.03.2025*
 
 Throughout this privacy policy, "personal information" or "personal data" refers to information that may identify you as an individual, such as your name, email address, IP address and other information about you. The mention of third-party sites and services refers to internet services that I do not or only partially have control over.
+
+> [!NOTE]
+> If you are looking for the privacy policy for specific applications instead of this website, refer to [this document](privacy/applications/).
 
 ## Privacy 🔒
 
