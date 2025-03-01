@@ -10,8 +10,6 @@ searchHidden: false
 
 Throughout this privacy policy, "personal information" or "personal data" refers to information that may identify you as an individual, such as your name, email address, IP address and other information about you. The mention of third-party sites and services refers to internet services that I do not or only partially have control over.
 
-The terms "sub-site" and "domain" are used to describe any service provided under the langrock.info domain.
-
 ## Privacy 🔒
 
 Some parts of this domain use Cloudflare, which either directly provides the service (like this webpage) or relays data.  
