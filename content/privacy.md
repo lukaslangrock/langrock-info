@@ -26,7 +26,7 @@ The following endpoints are **always** routed through Cloudflare:
 The following endpoints are **never** routed through Cloudflare:
 - `*.home.langrock.info`
 
-Cloudflare can only really be used on first-level subdomains, meaning domains which directly stand in front of `langrock.info` without an additional dot in-between.  Meaning that the domain `example.langrock.info` could be using Cloudflare, but `xyz.example.langrock.info` will never be using Cloudflare in this setup.
+*Cloudflare can only really be used on first-level subdomains, meaning a sub-domain which stands directly in front of `.langrock.info` without an additional dot/sub-domain in-between. For example, the domain `example.langrock.info` could be using Cloudflare, but `xyz.example.langrock.info` will never be using Cloudflare in this setup.*
 
 ## Security 🛡️
 
