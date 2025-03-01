@@ -8,8 +8,6 @@ searchHidden: false
 *This policy is valid for all langrock.info websites and services unless stated otherwise.*  
 *Last Update: 01.03.2025*
 
-This document aims to inform you about the security and privacy of this site and how much personal data may be collected. 
-
 Throughout this privacy policy, "personal information" or "personal data" refers to information that may identify you as an individual, such as your name, email address, IP address and other information about you. The mention of third-party sites and services refers to internet services that I do not or only partially have control over.
 
 The terms "sub-site" and "domain" are used to describe any service provided under the langrock.info domain.
