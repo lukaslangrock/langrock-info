@@ -21,8 +21,10 @@ params:
     buttons:
       - name: Wiki
         url: "https://wiki.libre.moe"
-      - name: Selfhosted Git
-        url: "https://git.libre.moe/lukas"
+      - name: GitLab
+        url: "https://lab.libre.moe/users/lukas/projects"
+      - name: GitHub
+        url: "https://github.com/lukaslangrock?tab=repositories"
       - name: Shutdown Timer
         url: "https://www.microsoft.com/store/apps/9NTDG6C9BTTW?cid=langrock.info"
   socialIcons:
