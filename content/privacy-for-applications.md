@@ -8,7 +8,8 @@ searchHidden: false
 *This policy is valid for only the applications explicitly listed below developed by Lukas Langrock.*  
 
 # Shutdown Timer Classic
-> https://github.com/lukaslangrock/ShutdownTimerClassic  
+> https://github.com/lukaslangrock/ShutdownTimerClassic
+
 *Last Updated: 01.03.2025*
 
 This application is not connected to the Internet.  
