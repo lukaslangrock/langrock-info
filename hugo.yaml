@@ -33,7 +33,7 @@ params:
         - name: discord
           url: "https://discordapp.com/users/400325262597947403"
         - name: matrix
-          url: "https://matrix.to/#/@lukas:komu.boo"
+          url: "https://matrix.to/#/@llukas3:matrix.cs.uni-paderborn.de"
         - name: steam
           url: "https://steamcommunity.com/id/seele-02"
 
