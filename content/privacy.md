@@ -6,7 +6,7 @@ searchHidden: false
 ---
 
 *This policy is valid for all langrock.info websites and services unless stated otherwise.*  
-*Last Updated: 01.03.2025*
+*Last Updated: 27.04.2025*
 
 Throughout this privacy policy, "personal information" or "personal data" refers to information that may identify you as an individual, such as your name, email address, IP address and other information about you. The mention of third-party sites and services refers to internet services that I do not or only partially have control over.
 
@@ -24,9 +24,11 @@ Cloudflare generally respects user privacy and is trusted by me with handling bo
 
 The following endpoints are **always** routed through Cloudflare:
 - `https://langrock.info`
+- `https://git.langrock.info`
 - `https://files.langrock.info`
 
 The following endpoints are **never** routed through Cloudflare:
+- `seafile.langrock.info`
 - `*.home.langrock.info`
 
 *Cloudflare can only really be used on first-level subdomains, meaning a sub-domain which stands directly in front of `.langrock.info` without an additional dot/sub-domain in-between. For example, the domain `example.langrock.info` could be using Cloudflare, but `xyz.example.langrock.info` will never be using Cloudflare in this setup.*
@@ -34,7 +36,7 @@ The following endpoints are **never** routed through Cloudflare:
 ## Security 🛡️
 
 Your connection to langrock.info and it's sub-sites is **end-to-end 
-encrypted using HTTPS**.  
+encrypted using HTTPS**. This means that the connection between your browser and my endpoint is secure, it does not mean, that data is encrypted at rest.
 Additionally, the **HSTS** (HTTP Strict Transport Security) headers are 
 sent by most endpoints to ensure your browser will not accept unsecure 
 connections.
